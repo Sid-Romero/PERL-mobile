@@ -1,7 +1,7 @@
-# responsive_layout_login_ui
- this is the responsive layout flutter project that will be responsive for web, desktop, tablets and mobile apps (andorid and ios),
+# projet d'application PERL
+Ici ce strouve le projet d'application mobile du projet PERL, réalisé avec Flutter
+
+ # NB
  
- # Login Screen
- 
- Flutter UI Speed Code Tutorials
+exécuter flutter pub get dans le terminal (répertoire du fichier) pour mettre à jour les dépendances
  
